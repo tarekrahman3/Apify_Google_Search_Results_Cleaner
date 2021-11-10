@@ -1,5 +1,5 @@
 import pandas as pd
-import os
+#import os
 
 #files = os.listdir()[1:-1]
 
@@ -13,12 +13,15 @@ def filter(csv_file):
 	'organicResults/0/description',
 	'organicResults/0/title',
 	'organicResults/0/url',
+		
 	'organicResults/1/description',
 	'organicResults/1/title',
 	'organicResults/1/url',
+		
 	'organicResults/2/description',
 	'organicResults/2/title',
 	'organicResults/2/url',
+		
 	'organicResults/3/description',
 	'organicResults/3/title',
 	'organicResults/3/url',
